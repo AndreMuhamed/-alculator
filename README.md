@@ -1,5 +1,4 @@
-# Certainly, here's an explanation for the Python code for a basic calculator: dsgggggggggggggggdsdsdsdsdsdsdsdsdsdsdsds
-```python
+# Certainly, here's an explanation for the Python code for a basic calculator: dsggg
 # Function for addition
 def addition(x, y):
     return x + y
